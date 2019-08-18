@@ -10,3 +10,19 @@ h2  {
 h3  {
   font-weight: bold;
 }
+
+.important  {
+  color: red;
+}
+
+.unimportant  {
+  color: blue;
+}
+
+.yarn-type  {
+  font-style: italic;
+}
+
+.yarn-subset  {
+  color: violet;
+}
